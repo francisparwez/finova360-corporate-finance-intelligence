@@ -1,0 +1,11 @@
+DepartmentID,DepartmentName,Division
+D001,Finance,Corporate
+D002,Sales,Commercial
+D003,Marketing,Commercial
+D004,Engineering,Product & Technology
+D005,Operations,Operations
+D006,Human Resources,Corporate
+D007,IT,Product & Technology
+D008,Customer Success,Commercial
+D009,Research & Development,Product & Technology
+D010,Legal,Corporate

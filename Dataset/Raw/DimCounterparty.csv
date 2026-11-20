@@ -1,0 +1,19 @@
+CounterpartyID,CounterpartyName,CounterpartyType
+CP0001,Apex Cloud Services,Vendor
+CP0002,Brightline Marketing,Vendor
+CP0003,Summit Consulting,Vendor
+CP0004,Metro Office Solutions,Vendor
+CP0005,Pioneer Software Group,Vendor
+CP0006,Vertex Talent Partners,Vendor
+CP0007,Global Travel Desk,Vendor
+CP0008,Evergreen Facilities,Vendor
+CP0009,Nexus Telecom,Vendor
+CP0010,BluePeak Legal Advisors,Vendor
+CP0011,Cobalt Security,Vendor
+CP0012,Orion Data Systems,Vendor
+CP0013,Atlas Learning Co.,Vendor
+CP0014,Meridian Logistics,Vendor
+CP0015,Internal Customer,Customer
+CP0016,Enterprise Customer,Customer
+CP0017,SMB Customer,Customer
+CP0018,Strategic Account,Customer

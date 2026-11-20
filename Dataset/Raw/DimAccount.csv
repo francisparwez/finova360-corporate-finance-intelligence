@@ -1,0 +1,19 @@
+AccountCode,AccountName,AccountCategory,StatementType,PLSign
+4000,Product Revenue,Revenue,Income Statement,1
+4010,Service Revenue,Revenue,Income Statement,1
+4020,Other Revenue,Revenue,Income Statement,1
+5000,Cost of Goods Sold,Direct Costs,Income Statement,-1
+5010,Cloud & Hosting,Direct Costs,Income Statement,-1
+6000,Salaries & Wages,Operating Expenses,Income Statement,-1
+6010,Benefits & Payroll Taxes,Operating Expenses,Income Statement,-1
+6020,Marketing & Advertising,Operating Expenses,Income Statement,-1
+6030,Travel & Entertainment,Operating Expenses,Income Statement,-1
+6040,Software & Subscriptions,Operating Expenses,Income Statement,-1
+6050,Professional Services,Operating Expenses,Income Statement,-1
+6060,Rent & Facilities,Operating Expenses,Income Statement,-1
+6070,Utilities & Communications,Operating Expenses,Income Statement,-1
+6080,Training & Recruitment,Operating Expenses,Income Statement,-1
+7000,Depreciation & Amortization,Other Operating Expenses,Income Statement,-1
+8000,Interest Income,Non-Operating,Income Statement,1
+8010,Interest Expense,Non-Operating,Income Statement,-1
+8020,Income Tax Expense,Non-Operating,Income Statement,-1

@@ -2,6 +2,8 @@
 
 Finova360 is a corporate finance analytics project built around a fictional multinational technology company. The project aims to transform synthetic financial data into meaningful business insights using Microsoft Power BI, Power Query, data modelling, and DAX. All financial records are synthetic and designed to simulate real-world corporate finance operations.
 
+The seven CSV datasets have been organised under `Dataset/Raw/` and successfully imported into Power BI's Power Query Editor. Data cleaning, transformation, data modelling, and report development are planned as subsequent project stages.
+
 ## Tables
 
 The project includes the following synthetic datasets, organised under `Dataset/Raw/`:
